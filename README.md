@@ -2,6 +2,7 @@
 <h5 align="center">Olá 👋, meu nome é Breno</h5>
 <h3 align="center">Just a guy who enjoys making software.</h3>
 <h5 align="center">Apenas um cara que gosta de fazer software.</h5>
+[![](https://visitcount.itsvg.in/api?id=bmp29&icon=0&color=10)](https://visitcount.itsvg.in)
 
 <div align="center">
   
@@ -31,7 +32,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bmp29&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Cool Quote :)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal?border=true&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![](https://visitcount.itsvg.in/api?id=bmp29&icon=0&color=10)](https://visitcount.itsvg.in)
 </div>
