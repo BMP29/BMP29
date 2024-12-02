@@ -1,4 +1,4 @@
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 ![](https://komarev.com/ghpvc/?username=bmp29)
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bmp29&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/bmp29/github-readme-stats#gh-dark-mode-only)
