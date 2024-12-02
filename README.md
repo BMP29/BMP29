@@ -5,7 +5,6 @@
 
 <div align="center">
 # 🌐 Socials:
-  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-maitano-pereira-78a8b9181) 
 
 
