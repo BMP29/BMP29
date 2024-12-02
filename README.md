@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Breno</h1>
+<h5 align="center">Olá 👋, meu nome é Breno</h5>
 <h3 align="center">Just a guy who enjoys making software.</h3>
 
 <div align="center">
