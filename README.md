@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Breno</h1>
 <h3 align="center">Just a guy who enjoys making software.</h3>
 
+<div align="center">
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/breno-maitano-pereira-78a8b9181/) 
 
@@ -16,5 +17,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bmp29&icon=0&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
