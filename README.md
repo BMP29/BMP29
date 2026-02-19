@@ -1,14 +1,17 @@
-<h1 align="center">Olá 👋, meu nome é Breno</h1>
-<h5 align="center">Hi 👋, I'm Breno</h5>
-<h3 align="center">Just a guy who enjoys making software</h3>
-<h5 align="center">Apenas um cara que gosta de desenvolver software</h5>
+<h1 align="center">🚀 Olá, eu sou o Breno</h1>
+<h4 align="center">👨‍💻 Web Developer • Back-End Focused</h4>
+
+<p align="center">
+Apaixonado por desenvolvimento web, arquitetura limpa e APIs bem construídas.  
+Transformo ideias em soluções escaláveis e eficientes.
+</p>
 
 <div align="center">
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenompereira/) 
 
-# 💻 Tech Stack (Mostly stuff that i've used in the past): 
+# 💻 Tech Stack: 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
