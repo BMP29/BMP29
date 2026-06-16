@@ -1,9 +1,9 @@
 <h1 align="center">🚀 Olá, eu sou o Breno</h1>
-<h4 align="center">👨‍💻 Web Developer • Back-End Focused</h4>
+<h4 align="center">👨‍💻 Web Developer • Full Stack</h4>
 
 <p align="center">
-Apaixonado por desenvolvimento web, arquitetura limpa e APIs bem construídas.  
-Transformo ideias em soluções escaláveis e eficientes.
+Transformo ideias em soluções web escaláveis e eficientes.
+Entusiasta de engenharia de software e desenvolvimento web.
 </p>
 
 <div align="center">
