@@ -2,8 +2,7 @@
 <h4 align="center">👨‍💻 Web Developer • Full Stack</h4>
 
 <p align="center">
-Transformo ideias em soluções web escaláveis e eficientes.
-Entusiasta de engenharia de software e desenvolvimento web.
+Transformo ideias em soluções web confiáveis, escaláveis e manuteníveis
 </p>
 
 <div align="center">
